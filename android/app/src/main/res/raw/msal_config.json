@@ -1,0 +1,16 @@
+{
+  "client_id": "94d9b948-1bdc-4067-846d-e25fab09b15d",
+  "redirect_uri": "https://login.microsoftonline.com/a2972496-9c71-4996-be35-b25c7a16a880/v2.0",
+  "broker_redirect_uri_registered": false,
+  "authorities": [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMyOrg",
+        "tenant_id": "a2972496-9c71-4996-be35-b25c7a16a880"
+      },
+      "default": true
+    }
+  ]
+}
+ 
